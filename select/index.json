@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "No Clouds",
+  "base_artist": "Kvi Baba",
+  "createdAt": "2025-12-01T07:34:15.373490Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Clouds",
+      "artist": "Liberty X",
+      "has_synced": false,
+      "path": "select/01_No_Clouds_Liberty_X.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Clouds",
+      "artist": "Kvi Baba",
+      "has_synced": false,
+      "path": "select/02_No_Clouds_Kvi_Baba.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No Clouds",
+      "artist": "Kvi Baba",
+      "has_synced": false,
+      "path": "select/pl_01_No_Clouds_Kvi_Baba.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "No Clouds",
+      "artist": "Kvi Baba",
+      "has_synced": false,
+      "path": "select/pl_02_No_Clouds_Kvi_Baba.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "No Clouds",
+      "artist": "Kvi Baba",
+      "has_synced": false,
+      "path": "select/pl_03_No_Clouds_Kvi_Baba.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "No Clouds",
+      "artist": "Kvi Baba",
+      "has_synced": false,
+      "path": "select/pl_04_No_Clouds_Kvi_Baba.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "No Clouds",
+      "artist": "Kvi Baba",
+      "has_synced": false,
+      "path": "select/pl_05_No_Clouds_Kvi_Baba.txt"
+    }
+  ]
+}
